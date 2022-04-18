@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheTickler85
+- 👀 I’m interested in: playing video  games
+- 🌱 I’m currently learning: HTML, but I wanna try to do JavaScript 
+- 💞️ I’m looking to collaborate on: basic video games for beginners 
+- 📫 How to reach me: by my email nelsonisabelle56@gmail.com
